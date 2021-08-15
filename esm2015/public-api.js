@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ng-heart-rate
+ */
+export * from './lib/ng-heart-rate.service';
+export * from './lib/ng-heart-rate.component';
+export * from './lib/ng-heart-rate.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWhlYXJ0LXJhdGUvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbmctaGVhcnQtcmF0ZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLWhlYXJ0LXJhdGUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1oZWFydC1yYXRlLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1oZWFydC1yYXRlLm1vZHVsZSc7XG4iXX0=
